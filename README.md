@@ -1,1 +1,1 @@
-# omny-launcher-download
+# omny-updater
