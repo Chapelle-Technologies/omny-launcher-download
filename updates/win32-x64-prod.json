@@ -1,8 +1,0 @@
-{
-  "win32-x64-prod": {
-    "readme": "First published version",
-    "update": "https://github.com/Chapelle-Technologies/omny-updater/releases/download/win32-x64-prod-1.2.2",
-    "install": "https://github.com/Chapelle-Technologies/omny-updater/releases/download/win32-x64-prod-1.2.2/Omny.Setup.1.2.2.exe",
-    "version": "1.2.2"
-  }
-}
