@@ -1,9 +1,0 @@
-{
-  "linux-x64-prod": {
-    "readme": "First published version",
-    "update": "https://github.com/Chapelle-Technologies/omny-updater/releases/download/linux-x64-prod-1.2.2/Omny-1.2.2.AppImage",
-    "install": "https://github.com/Chapelle-Technologies/omny-updater/releases/download/linux-x64-prod-1.2.2/Omny-1.2.2.AppImage",
-    "version": "1.2.2",
-    "sha256": "5d2a3648a98ed1f04784bdcb2a4c57ae3588d5be89c121d2b64b21a94212ef13"
-  }
-}
